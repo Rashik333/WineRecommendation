@@ -1,0 +1,20 @@
+Wine,Sweetness,Acidity,Saltiness,Bitterness
+Red Wine,2,3,1,2
+White Wine,1,3,1,1
+Rosé Wine,2,3,1,2
+Champagne,1,3,1,1
+Port,4,3,1,4
+Cabernet,2,3,1,3
+Chardonnay,1,4,1,2
+Merlot,2,3,1,2
+Pinot Grigio,1,3,1,1
+Riesling,3,2,1,2
+Sauvignon Blanc,2,3,1,1
+Malbec,2,3,1,3
+Syrah,3,2,1,3
+Zinfandel,2,2,1,2
+Prosecco,2,3,1,3
+Gewürztraminer,4,2,1,1
+Sangiovese,1,2,1,2
+Tempranillo,2,3,1,2
+Barolo,2,3,1,3
